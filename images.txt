@@ -25,4 +25,14 @@ registry.community.greenbone.net/community/notus-data
 #registry.community.greenbone.net/community/openvas-scanner:stable
 #registry.community.greenbone.net/community/ospd-openvas:stable
 #registry.community.greenbone.net/community/gvm-tools
-
+quay.io/prometheus/alertmanager:v0.25.0
+quay.io/prometheus/blackbox-exporter:v0.23.0
+#quay.io/brancz/kube-rbac-proxy:v0.14.0
+#quay.io/brancz/kube-rbac-proxy:v0.14.0
+quay.io/prometheus/node-exporter:v1.5.0
+quay.io/brancz/kube-rbac-proxy:v0.14.0
+quay.io/prometheus/prometheus:v2.41.0
+quay.io/prometheus-operator/prometheus-operator:v0.62.0
+#quay.io/brancz/kube-rbac-proxy:v0.14.0
+registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.7.0
+registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.10.0
