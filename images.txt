@@ -36,4 +36,6 @@
 #quay.io/brancz/kube-rbac-proxy:v0.14.0
 #registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.7.0
 #registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.10.0
-docker.io/grafana/grafana:4.2.0
+#docker.io/grafana/grafana:4.2.0
+docker.io/pikachu/pikachu
+
